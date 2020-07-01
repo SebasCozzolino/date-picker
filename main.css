@@ -80,7 +80,7 @@ background-color: #f3f3f3;
 }
 
 .date-picker .dates .days {
-    display: grid;, 
+    display: grid;
     grid-template-columns: repeat(7, 1fr);
     height: 200px;
 }
